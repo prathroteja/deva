@@ -7,6 +7,7 @@ public class App {
 		//c.setEng(new DieselEngine());// setter method
 		c.eng = new DieselEngine();// field injectin
 		c.drive();
+		System.out.println("jam");
 	}
 
 }
