@@ -8,6 +8,7 @@ public class App {
 		c.eng = new DieselEngine();// field injectin
 		c.drive();
 		System.out.println("jam");
+		System.out.println("jam");
 	}
 
 }
